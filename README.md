@@ -1,4 +1,4 @@
-# A-Kerberos
+# Auth-Kerberos
 
 ## Install
 
