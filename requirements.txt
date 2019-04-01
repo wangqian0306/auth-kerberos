@@ -1,0 +1,6 @@
+pytest
+flask
+kerberos
+flask-kerberos
+flask-cors
+pytest-flask
